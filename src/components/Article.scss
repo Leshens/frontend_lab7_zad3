@@ -1,0 +1,18 @@
+@import './index.scss';
+
+section{
+  border: 1px solid black;
+    padding: 10px;
+    background-color: $primary-background;
+    color: $primary-color;
+  width: 50%;
+  margin: 20px auto;
+  display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    img{
+      max-width: 200px;
+      max-height: 200px;
+    }
+}
