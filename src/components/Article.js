@@ -1,6 +1,4 @@
-import Section from "./Section"
 import React from 'react';
-import "./Article.scss";
 
 class Article extends React.Component {
     render() {

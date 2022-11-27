@@ -1,11 +1,10 @@
 import React from 'react';
-import "./Footer.scss";
 
 class Footer extends React.Component {
     render() {
         return (
             <footer>
-                <p>Wszelkie prawa zastrzeżone &copy; 2020</p>
+                <p>Wszelkie prawa zastrzeżone Leshens &copy; 2022</p>
             </footer>
         )
     }
