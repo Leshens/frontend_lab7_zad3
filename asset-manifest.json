@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/frontend_lab7_zad3/static/css/main.fc7806db.css",
+    "main.js": "/frontend_lab7_zad3/static/js/main.11a2f2e0.js",
+    "index.html": "/frontend_lab7_zad3/index.html",
+    "main.fc7806db.css.map": "/frontend_lab7_zad3/static/css/main.fc7806db.css.map",
+    "main.11a2f2e0.js.map": "/frontend_lab7_zad3/static/js/main.11a2f2e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc7806db.css",
+    "static/js/main.11a2f2e0.js"
+  ]
+}
