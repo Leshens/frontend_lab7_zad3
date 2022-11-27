@@ -16,4 +16,5 @@ root.render(
         <Section/>
         <Footer/>
     </StrictMode>
+    
 );
