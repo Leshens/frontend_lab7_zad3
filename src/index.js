@@ -1,20 +1,19 @@
-import React, {StrictMode} from "react";
+import React,{StrictMode} from "react";
 import {createRoot} from "react-dom/client";
 
-import Nav from "./components/Nav/Nav";
-import Section from "./components/Section";
-import Footer from "./components/Footer";
-import './style/styles.scss';
+import Header from "./components/header";
+import Footer from "./components/footer";
+import Section from "./components/section";
+import "./style/styles.scss"
 
 const root = createRoot(document.getElementById("root"));
 root.render(
     <StrictMode>
         <header>
             <p>Navigation bar</p>
-            <Nav/>
+            <Header/>
         </header>
         <Section/>
         <Footer/>
     </StrictMode>
-
 );

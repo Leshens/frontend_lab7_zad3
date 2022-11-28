@@ -1,11 +1,10 @@
 import React from "react";
-
-import NavContent from "./NavContent";
+import Nav from "./nav";
 
 export default function Header() {
     return (
         <nav>
-            <NavContent/>
+            <Nav/>
         </nav>
     );
 }
