@@ -4,8 +4,8 @@ export default function Nav() {
     return (
         <ul>
             {
-                navData.map((navItem, index) => {
-                    return <li key={index}><a href={navItem.href}>{navItem.name}</a></li>
+                navData.map((navBar, index) => {
+                    return <li key={index}><a href={navBar.href}>{navBar.name}</a></li>
                 })
             }
         </ul>
